@@ -5,6 +5,8 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-myers&layout=compact" align="right" />
 
+- 👋 Find all my info on <a href="https://jakemyers.me/">My Website</a>
+
 - 🌱 I’m currently learning **React** and **Node.js**
 
 - 📫 How to reach me: jake.myers.dev@gmail.com
