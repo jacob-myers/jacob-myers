@@ -7,7 +7,7 @@
 
 - 👋 Find all my info on <a href="https://jakemyers.me/">My Website</a>
 
-- 日本 I'm currently working on a [Japanese Word Bank app](https://github.com/jacob-myers/japanese-word-bank)
+- 日本 I'm currently working on a [Japanese Word Bank app](https://github.com/jacob-myers/japanese-word-bank-2)
 
 - 🌱 I’m currently learning **React** and **Node.js**
 
