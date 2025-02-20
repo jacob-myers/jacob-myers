@@ -3,8 +3,6 @@
 <p align="center">Please explore my software and art portfolio at <a href="https://jakemyers.me/"> jakemyers.me</a>.</p>
 <hr>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-myers&layout=compact" align="right" />
-
 - 👋 Find all my info on <a href="https://jakemyers.me/">My Website</a>
 
 - 日本 I'm currently working on a [Japanese Word Bank app](https://github.com/jacob-myers/japanese-word-bank)
